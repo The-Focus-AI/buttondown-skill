@@ -1,0 +1,6 @@
+{
+  "name": "buttondown-skill",
+  "version": "1.0.0",
+  "description": "Buttondown newsletter management - create drafts, schedule emails, view analytics",
+  "skills": ["skills/buttondown"]
+}
