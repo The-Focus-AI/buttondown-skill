@@ -4,7 +4,19 @@ A Claude Code plugin skill for managing Buttondown newsletters. Create drafts, s
 
 ## Installation
 
-Add this plugin to your Claude Code configuration:
+### Via Focus Marketplace (Recommended)
+
+```bash
+# Add the Focus marketplace (if not already added)
+/plugin marketplace add The-Focus-AI/claude-marketplace
+
+# Install the plugin
+/plugin install buttondown-skill@focus-marketplace
+```
+
+Then restart Claude Code.
+
+### Manual Installation
 
 ```bash
 claude --plugin-dir /path/to/buttondown-skill
